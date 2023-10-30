@@ -30,7 +30,7 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
   - Lasso elimated 110 features (including dummy variables). Identified top 25 features based on beta coefficient values.
   - Evaluate both the model on training and test dataset.
 
-**Notebook** : https://github.com/anikch/house-price-prediction-Ridge_Lasso/blob/main/housing_price_prediction.ipynb
+**Notebook** : https://github.com/rvk16/HousePricePrediction-Ridge_Lasso/blob/main/housing_price_prediction.ipynb
 
 **Observations:**
   - Ridge and Lasso both the models have almost same test and train accuracy. So it can be said that there is no overfitting.
@@ -39,6 +39,4 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
         Lasso Regression model on test dataset: r2 score= 0.8947, MAE= 0.0914, RMSE= 0.1335
   - Considering above points we can choose our Lasso Regression model as our final model.
 
-**Additional queries**: https://github.com/anikch/house-price-prediction-Ridge_Lasso/blob/main/Additional_questions.pdf
-
-   ![download](https://user-images.githubusercontent.com/77941537/137640772-e7149f0e-1351-4f5c-8073-a65e19017882.png)
+**Additional queries**: https://github.com/rvk16/HousePricePrediction-Ridge_Lasso/blob/main/Addition_Questions.pdf
